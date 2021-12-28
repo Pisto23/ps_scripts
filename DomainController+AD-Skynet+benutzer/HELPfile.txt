@@ -1,0 +1,8 @@
+HELPfile
+
+Nach script "HYPER-V-setup_DC_SRV_CL1_Firewall.ps1":
+	DC und Core Passwort vergeben und einmal Durchstarten.
+
+Während AD Installation Firewall einrichten
+
+User CSV-file muss im richtigen Pfad liegen.

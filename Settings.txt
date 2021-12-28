@@ -1,0 +1,22 @@
+Domain Top		 --- $var[1]
+local
+Domain Sub		 --- $var[3]
+skynet
+User			 --- $var[5]
+Administrator
+UserPW			--- $var[7]
+Pa55w.rd
+Subnet			--- $var[9]
+255.255.255.0
+Subnetzmaske		--- $var[11]
+24
+GatewayIP		--- $var[13]
+192.168.15.254
+Name DomainController 	--- $var[15]
+SN-DC01
+IP DomainController	--- $var[17]
+192.168.15.1
+Name Core		--- $var[19 ]
+SN-SRV01
+IP Core			--- $var[21]
+192.168.15.2
